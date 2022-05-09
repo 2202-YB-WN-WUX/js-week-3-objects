@@ -1,0 +1,45 @@
+
+.button {
+  display:inline-block;
+  padding:20px;
+  border: 1px solid #30a676;
+  background: #30a676;
+  border-radius: 10px;
+  margin-top:20px;
+  color:white;
+  font-size:20px;
+  user-select:none;
+}
+
+.button:hover {
+  background:white;
+  color:#30a676;
+  /* show that it's clickable */
+  cursor:pointer;
+}
+
+.product {
+  padding: 30px;
+  border: 1px solid black;
+}
+
+#result {
+  /* display:flex; */
+  /* flex-wrap: wrap; */
+
+}
+
+.person {
+  background: tomato;
+  color:white;
+  padding:20px;
+  border-radius:5px;
+}
+
+.trendy-message {
+  border-radius:15px;
+  background-color:tomato;
+  color:white;
+  padding:5px;
+  display:inline-block;
+}
